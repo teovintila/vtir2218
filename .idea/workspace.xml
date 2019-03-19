@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="407ed5d2-ec42-44ed-8431-a200713352f0" name="Default Changelist" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java" afterDir="false" />
+    <list default="true" id="407ed5d2-ec42-44ed-8431-a200713352f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArhitectureDiagram.uml" beforeDir="false" afterPath="$PROJECT_DIR$/ArhitectureDiagram.uml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cartiBD.dat" beforeDir="false" afterPath="$PROJECT_DIR$/cartiBD.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/vtir2218.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/vtir2218MV/repository/CartiRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/vtir2218MV/repository/CartiRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="147" column="41" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
+            <state relative-caret-position="112">
+              <caret line="145" column="19" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -95,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="36">
+              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -111,20 +107,6 @@
               <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,7 +140,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/repository/repo/CartiRepo.java" />
         <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/repository/repoMock/CartiRepoMock.java" />
@@ -173,6 +154,7 @@
         <option value="$PROJECT_DIR$/cartiBD.dat" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java" />
       </list>
     </option>
   </component>
@@ -260,22 +242,16 @@
               <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
               <item name="vtir2218" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vtir2218" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vtir2218" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="vtir2218MV" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vtir2218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
@@ -283,17 +259,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vtir2218MV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vtir2218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="control" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vtir2218" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vtir2218MV" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vtir2218" type="b2602c69:ProjectViewProjectNode" />
@@ -310,7 +283,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553009342903" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553009639033" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
@@ -414,14 +387,19 @@
       <workItem from="1552144676994" duration="4334000" />
       <workItem from="1552305980106" duration="1438000" />
       <workItem from="1552544505776" duration="50000" />
-      <workItem from="1552984701448" duration="11212000" />
+      <workItem from="1552984701448" duration="11505000" />
     </task>
+    <task id="LOCAL-00001" summary="tests commit">
+      <created>1553009428543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553009428543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 16h 47m 35s.xml">
-      <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 16h 48m 46s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
@@ -449,9 +427,12 @@
     <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 25m 53s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 31m 00s.xml">
+      <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17505000" />
+    <option name="totallyTimeSpent" value="17798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,7 +452,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22416107" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22416107" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -479,8 +460,8 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3753541" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.5311615" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.47875354" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.296034" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3286119" />
@@ -533,7 +514,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="tests commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests commit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -653,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/model/Carte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -731,8 +706,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="147" column="41" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
+        <state relative-caret-position="112">
+          <caret line="145" column="19" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
         </state>
       </provider>
     </entry>
