@@ -4,7 +4,9 @@
     <list default="true" id="407ed5d2-ec42-44ed-8431-a200713352f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cartiBD.dat" beforeDir="false" afterPath="$PROJECT_DIR$/cartiBD.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/vtir2218MV/util/Validator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/vtir2218MV/util/Validator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="145" column="19" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="19" />
+            <state relative-caret-position="353">
+              <caret line="170" column="45" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -40,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/model/Carte.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="1156">
               <caret line="84" selection-start-line="84" selection-end-line="84" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -61,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepoMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
+            <state relative-caret-position="833">
               <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -82,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/repoInterfaces/CartiRepoInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="102">
               <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,20 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="527">
               <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="323">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,11 +152,11 @@
         <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/view/Consola.java" />
         <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/begin/Start.java" />
         <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/CartiRepo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepo.java" />
         <option value="$PROJECT_DIR$/cartiBD.dat" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepo.java" />
       </list>
     </option>
   </component>
@@ -166,7 +168,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="217" />
+    <option name="x" value="216" />
     <option name="y" value="525" />
     <option name="width" value="1370" />
     <option name="height" value="730" />
@@ -178,6 +180,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,13 +280,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553009639033" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553342727775" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar!/" />
@@ -387,7 +389,8 @@
       <workItem from="1552144676994" duration="4334000" />
       <workItem from="1552305980106" duration="1438000" />
       <workItem from="1552544505776" duration="50000" />
-      <workItem from="1552984701448" duration="11505000" />
+      <workItem from="1552984701448" duration="12118000" />
+      <workItem from="1553342224594" duration="410000" />
     </task>
     <task id="LOCAL-00001" summary="tests commit">
       <created>1553009428543</created>
@@ -396,43 +399,50 @@
       <option name="project" value="LOCAL" />
       <updated>1553009428543</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tests commit">
+      <created>1553009653564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553009653564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 16h 48m 46s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 13h 57m 45s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 16h 49m 29s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 13h 58m 27s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 09m 06s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 13h 58m 44s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 09m 20s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 13h 59m 27s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 18m 48s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 14h 00m 41s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 21m 00s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 14h 01m 35s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 22m 58s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 14h 02m 37s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 24m 20s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 14h 02m 46s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 25m 53s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 14h 03m 28s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BibliotecaCtrlTest - 2019.03.19 at 17h 31m 00s.xml">
+    <history-entry file="BibliotecaCtrlTest - 2019.03.23 at 14h 03m 45s.xml">
       <configuration name="BibliotecaCtrlTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17798000" />
+    <option name="totallyTimeSpent" value="18821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,15 +462,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22416107" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22751679" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3838527" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.21671388" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3753541" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.47875354" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.34560907" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.296034" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -628,6 +638,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/control/BibliotecaCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/model/Carte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6698">
@@ -635,10 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/model/Carte.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepoMock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="833">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -654,7 +685,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/repoInterfaces/CartiRepoInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="102">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -662,59 +693,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepoMock.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/control/BibliotecaCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="527">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="145" column="19" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="19" />
+        <state relative-caret-position="353">
+          <caret line="170" column="45" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/util/Validator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/repository/CartiRepo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        <state relative-caret-position="323">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

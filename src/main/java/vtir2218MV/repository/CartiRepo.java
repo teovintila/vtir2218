@@ -17,7 +17,7 @@ public class CartiRepo implements CartiRepoInterface {
 
     public CartiRepo(){
         URL location = CartiRepo.class.getProtectionDomain().getCodeSource().getLocation();
-        System.out.println(location.getFile());
+        //System.out.println(location.getFile());
     }
 
     @Override

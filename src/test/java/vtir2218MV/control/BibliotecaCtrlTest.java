@@ -61,8 +61,12 @@ public class BibliotecaCtrlTest {
         carte.setEditura("EdituraDoi");
         carte.setCuvinteCheie(cuvinte);
 
-        cartiController.adaugaCarte(carte);
-        assertEquals(size+1, cartiController.getCarti().size());
+        try{
+            cartiController.adaugaCarte(carte);
+        }catch(Exception e){
+            System.out.println(e.getMessage());
+        }
+        assertEquals(size, cartiController.getCarti().size());
     }
 
     @Test
@@ -84,8 +88,13 @@ public class BibliotecaCtrlTest {
         carte.setEditura("EdituraTrei");
         carte.setCuvinteCheie(cuvinte);
 
-        cartiController.adaugaCarte(carte);
-        assertEquals(size+1, cartiController.getCarti().size());
+        try{
+            cartiController.adaugaCarte(carte);
+        }
+        catch(Exception e){
+            System.out.println(e.getMessage());
+        }
+        assertEquals(size, cartiController.getCarti().size());
     }
 
 
@@ -106,8 +115,12 @@ public class BibliotecaCtrlTest {
         carte.setEditura("EdituraUnu");
         carte.setCuvinteCheie(cuvinte);
 
-        cartiController.adaugaCarte(carte);
-        assertEquals(size+1, cartiController.getCarti().size());
+        try{
+            cartiController.adaugaCarte(carte);
+        }catch(Exception e){
+            System.out.println(e.getMessage());
+        }
+        assertEquals(size, cartiController.getCarti().size());
     }
 
     @Test
@@ -151,8 +164,13 @@ public class BibliotecaCtrlTest {
         carte.setEditura("EdituraTrei");
         carte.setCuvinteCheie(cuvinte);
 
-        cartiController.adaugaCarte(carte);
-        assertEquals(size+1, cartiController.getCarti().size());
+        try {
+            cartiController.adaugaCarte(carte);
+        }
+        catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+        assertEquals(size, cartiController.getCarti().size());
     }
 
 }
