@@ -85,4 +85,13 @@ public class CartiRepoMock implements CartiRepoInterface {
         return lca;
     }
 
+    @Override
+    public List<Carte> getCartiByEditura(String editura, String fisier) throws Exception {
+        return null;
+    }
+
+    @Override
+    public List<Carte> loadCarti(String fisier) {
+        return null;
+    }
 }

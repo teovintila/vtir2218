@@ -117,4 +117,47 @@ public class CartiRepo implements CartiRepoInterface {
         return lca;
     }
 
+    @Override
+    public List<Carte> getCartiByEditura(String editura,String fisier) throws Exception {
+        List<Carte> carti = loadCarti(fisier);
+        List<Carte> cartiGasite = new ArrayList<>();
+        int i=0;
+
+        if(editura.length()==0){
+            throw new Exception("Editura vida!"); }
+
+        if(carti.size()>0) {
+            while (i < carti.size()) {
+                if (carti.get(i).getEditura().equals(editura)) {
+                    cartiGasite.add(carti.get(i)); }
+                i++; }
+        }
+        else{
+            throw new Exception("Nu exista carti!");
+        }
+
+        return cartiGasite;
+    }
+
+    @Override
+    public List<Carte> loadCarti(String fisier) {
+        List<Carte> lc = new ArrayList<Carte>();
+        BufferedReader br = null;
+        try {
+            br = new BufferedReader(new FileReader(fisier));
+            String line = null;
+            while((line=br.readLine())!=null){
+                lc.add(Carte.getCarteFromString(line));
+            }
+
+            br.close();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return lc;
+    }
+
 }

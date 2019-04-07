@@ -35,5 +35,9 @@ public class BibliotecaCtrl {
         return cr.getCartiOrdonateDinAnul(an);
     }
 
+    public List<Carte> getCartiByEditura(String editura,String fisier) throws Exception {
+        return cr.getCartiByEditura(editura,"cartiBD.dat");
+    }
+
 
 }

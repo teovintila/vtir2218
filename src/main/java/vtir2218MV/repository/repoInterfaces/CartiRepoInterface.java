@@ -10,4 +10,6 @@ public interface CartiRepoInterface {
     List<Carte> cautaCarte(String ref);
     List<Carte> getCarti();
     List<Carte> getCartiOrdonateDinAnul(String an);
+    List<Carte> getCartiByEditura(String editura,String fisier) throws Exception;
+    List<Carte> loadCarti(String fisier);
 }

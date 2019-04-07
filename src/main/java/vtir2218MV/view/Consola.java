@@ -36,6 +36,9 @@ public class Consola {
                 case 4:
                     afiseazaToateCartile();
                     break;
+                case 5:
+                    afiseazaCartiDupaEditura();
+                    break;
             }
 
             printMenu();
@@ -55,7 +58,8 @@ public class Consola {
         System.out.println("     1. Adaugarea unei noi carti");
         System.out.println("     2. Cautarea cartilor scrise de un anumit autor");
         System.out.println("     3. Afisarea cartilor din biblioteca care au aparut intr-un anumit an, ordonate alfabetic dupa titlu si autori");
-        System.out.println("     4. Afisarea toturor cartilor");
+        System.out.println("     4. Afisarea tuturor cartilor");
+        System.out.println("     5. Afisarea cartilor de la o anumita editura");
         System.out.println("     0. Exit");
     }
 
@@ -142,6 +146,19 @@ public class Consola {
                 System.out.println(c);
             }
         }catch(Exception e){
+            System.out.println(e.getMessage());
+        }
+
+    }
+
+    public void afiseazaCartiDupaEditura(){
+        System.out.println("\n\n\n");
+        System.out.println("Editura: ");
+        try {
+            for(Carte c:bc.getCartiByEditura(console.readLine(),"cartiBD.dat")){
+                System.out.println(c);
+            }
+        } catch (Exception e) {
             System.out.println(e.getMessage());
         }
 
