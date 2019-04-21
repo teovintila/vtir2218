@@ -103,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cartiBD.dat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -166,8 +166,8 @@
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TestCartiRepo.java" />
-        <option value="$PROJECT_DIR$/cartiBD.dat" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/BigBangTest.java" />
+        <option value="$PROJECT_DIR$/cartiBD.dat" />
       </list>
     </option>
   </component>
@@ -305,7 +305,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555869103439" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555869306452" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -461,7 +461,7 @@
       <workItem from="1554660753930" duration="629000" />
       <workItem from="1554721501952" duration="976000" />
       <workItem from="1555313844762" duration="124000" />
-      <workItem from="1555829568068" duration="8881000" />
+      <workItem from="1555829568068" duration="9124000" />
     </task>
     <task id="LOCAL-00001" summary="tests commit">
       <created>1553009428543</created>
@@ -540,22 +540,17 @@
       <option name="project" value="LOCAL" />
       <updated>1555868858608</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="big bang commit">
+      <created>1555869136324</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555869136324</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCartiRepo - 2019.04.21 at 20h 32m 08s.xml">
-      <configuration name="TestCartiRepo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCartiRepo - 2019.04.21 at 20h 32m 32s.xml">
-      <configuration name="TestCartiRepo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BigBangTest - 2019.04.21 at 20h 32m 58s.xml">
-      <configuration name="BigBangTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BigBangTest - 2019.04.21 at 20h 37m 57s.xml">
-      <configuration name="BigBangTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BigBangTest - 2019.04.21 at 20h 41m 11s.xml">
       <configuration name="BigBangTest" configurationId="JUnit" />
     </history-entry>
@@ -574,9 +569,21 @@
     <history-entry file="BigBangTest - 2019.04.21 at 20h 45m 22s.xml">
       <configuration name="BigBangTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BigBangTest - 2019.04.21 at 20h 50m 35s.xml">
+      <configuration name="BigBangTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangTest - 2019.04.21 at 20h 50m 47s.xml">
+      <configuration name="BigBangTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangTest - 2019.04.21 at 20h 51m 03s.xml">
+      <configuration name="BigBangTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangTest - 2019.04.21 at 20h 51m 45s.xml">
+      <configuration name="BigBangTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41960000" />
+    <option name="totallyTimeSpent" value="42203000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -856,8 +863,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cartiBD.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
