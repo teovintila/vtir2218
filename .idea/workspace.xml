@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="407ed5d2-ec42-44ed-8431-a200713352f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TopDownTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cartiBD.dat" beforeDir="false" afterPath="$PROJECT_DIR$/cartiBD.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -96,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+            <state relative-caret-position="374">
+              <caret line="196" column="27" selection-start-line="196" selection-start-column="27" selection-end-line="196" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -105,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cartiBD.dat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="221">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -178,10 +178,10 @@
         <option value="$PROJECT_DIR$/cartiBD1.dat" />
         <option value="$PROJECT_DIR$/cartiBD2.dat" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TestCartiRepo.java" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/BigBangTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TopDownTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java" />
         <option value="$PROJECT_DIR$/cartiBD.dat" />
       </list>
     </option>
@@ -320,7 +320,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555871193868" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555871774241" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -358,7 +358,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TopDownTest">
+  <component name="RunManager" selected="JUnit.BibliotecaCtrlTest.test7">
+    <configuration name="BibliotecaCtrlTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vtir2218" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vtir2218MV.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vtir2218MV.control" />
+      <option name="MAIN_CLASS_NAME" value="vtir2218MV.control.BibliotecaCtrlTest" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BigBangTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vtir2218" />
       <extension name="coverage">
@@ -386,21 +402,6 @@
       <option name="MAIN_CLASS_NAME" value="vtir2218MV.repository.BigBangTest" />
       <option name="METHOD_NAME" value="testIntegrare" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CartiRepoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vtir2218" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vtir2218MV.repository.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="vtir2218MV.repository" />
-      <option name="MAIN_CLASS_NAME" value="vtir2218MV.repository.CartiRepoTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -437,18 +438,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.BigBangTest" />
-      <item itemvalue="JUnit.CartiRepoTest" />
       <item itemvalue="JUnit.TestCartiRepo" />
       <item itemvalue="JUnit.BigBangTest.testIntegrare" />
       <item itemvalue="JUnit.TopDownTest" />
+      <item itemvalue="JUnit.BibliotecaCtrlTest.test7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BibliotecaCtrlTest.test7" />
         <item itemvalue="JUnit.TopDownTest" />
         <item itemvalue="JUnit.BigBangTest" />
         <item itemvalue="JUnit.BigBangTest.testIntegrare" />
         <item itemvalue="JUnit.TestCartiRepo" />
-        <item itemvalue="JUnit.CartiRepoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +477,7 @@
       <workItem from="1554660753930" duration="629000" />
       <workItem from="1554721501952" duration="976000" />
       <workItem from="1555313844762" duration="124000" />
-      <workItem from="1555829568068" duration="11002000" />
+      <workItem from="1555829568068" duration="12134000" />
     </task>
     <task id="LOCAL-00001" summary="tests commit">
       <created>1553009428543</created>
@@ -569,16 +570,17 @@
       <option name="project" value="LOCAL" />
       <updated>1555869369737</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="big bang commit">
+      <created>1555871243023</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555871243023</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BigBangTest - 2019.04.21 at 20h 50m 35s.xml">
-      <configuration name="BigBangTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BigBangTest - 2019.04.21 at 20h 50m 47s.xml">
-      <configuration name="BigBangTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BigBangTest - 2019.04.21 at 20h 51m 03s.xml">
       <configuration name="BigBangTest" configurationId="JUnit" />
     </history-entry>
@@ -603,9 +605,15 @@
     <history-entry file="TopDownTest - 2019.04.21 at 21h 20m 44s.xml">
       <configuration name="TopDownTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BibliotecaCtrlTest_test7 - 2019.04.21 at 21h 35m 20s.xml">
+      <configuration name="BibliotecaCtrlTest.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BibliotecaCtrlTest_test7 - 2019.04.21 at 21h 35m 31s.xml">
+      <configuration name="BibliotecaCtrlTest.test7" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44081000" />
+    <option name="totallyTimeSpent" value="45213000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -617,14 +625,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24630873" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24630873" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -632,7 +641,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.21671388" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3753541" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.27903682" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.27903682" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.296034" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -855,13 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TestCartiRepo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-363">
@@ -902,10 +904,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="196" column="27" selection-start-line="196" selection-start-column="27" selection-end-line="196" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cartiBD.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>

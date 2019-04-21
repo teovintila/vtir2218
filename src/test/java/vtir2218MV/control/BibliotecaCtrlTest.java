@@ -173,4 +173,28 @@ public class BibliotecaCtrlTest {
         assertEquals(size, cartiController.getCarti().size());
     }
 
+    @Test
+    public void test7() throws Exception {
+        Carte carte = new Carte();
+        int size=cartiController.getCarti().size();
+
+        ArrayList<String> autori = new ArrayList<>();
+        ArrayList<String> cuvinte = new ArrayList<>();
+        cuvinte.add("poate");
+
+        carte.setTitlu("Carte");
+        carte.setReferenti(autori);
+        carte.setAnAparitie("2009");
+        carte.setEditura("EdituraTrei");
+        carte.setCuvinteCheie(cuvinte);
+
+        try {
+            cartiController.adaugaCarte(carte);
+        }
+        catch (Exception e){
+            System.out.println(e.getMessage());
+        }
+        assertEquals(size+1, cartiController.getCarti().size());
+    }
+
 }
