@@ -34,7 +34,7 @@ public class CartiRepoTest {
     public void getCartiByEditura2() {
         try{
             List<Carte> carti = cartiRepository.getCartiByEditura("Litera","cartiBD.dat");
-            assertEquals(carti.size(),9);
+            assertEquals(carti.size(),8);
         }
         catch (Exception e){
             System.out.println(e.getMessage());

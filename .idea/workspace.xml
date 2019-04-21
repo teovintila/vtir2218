@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="407ed5d2-ec42-44ed-8431-a200713352f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/BigBangTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TestCartiRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cartiBD.dat" beforeDir="false" afterPath="$PROJECT_DIR$/cartiBD.dat" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/control/BibliotecaCtrl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/cartiBD.dat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -62,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TestCartiRepo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/BigBangTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
@@ -82,11 +79,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/model/Carte.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="479">
-              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="19" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="19" />
+              <caret line="19" selection-start-line="13" selection-start-column="2" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,16 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="355">
-              <caret line="38" column="39" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="38" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cartiBD1.dat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+              <caret line="38" column="39" selection-start-line="26" selection-start-column="8" selection-end-line="38" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -317,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555865351373" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555867976335" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -369,6 +366,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BibliotecaCtrlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vtir2218" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vtir2218MV.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vtir2218MV.control" />
+      <option name="MAIN_CLASS_NAME" value="vtir2218MV.control.BibliotecaCtrlTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BigBangTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vtir2218" />
       <extension name="coverage">
@@ -384,7 +396,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigBangTest.testAdaugaCarte" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CartiRepoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vtir2218" />
       <extension name="coverage">
         <pattern>
@@ -393,14 +405,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="vtir2218MV.repository" />
-      <option name="MAIN_CLASS_NAME" value="vtir2218MV.repository.BigBangTest" />
-      <option name="METHOD_NAME" value="testAdaugaCarte" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="vtir2218MV.repository.CartiRepoTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigBangTest.testCreareCarte" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCartiRepo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vtir2218" />
       <extension name="coverage">
         <pattern>
@@ -409,43 +420,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="vtir2218MV.repository" />
-      <option name="MAIN_CLASS_NAME" value="vtir2218MV.repository.BigBangTest" />
-      <option name="METHOD_NAME" value="testCreareCarte" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BigBangTest.testOrdonare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vtir2218" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vtir2218MV.repository.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="vtir2218MV.repository" />
-      <option name="MAIN_CLASS_NAME" value="vtir2218MV.repository.BigBangTest" />
-      <option name="METHOD_NAME" value="testOrdonare" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="vtir2218MV.repository.TestCartiRepo" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Start" />
-      <item itemvalue="JUnit.BigBangTest.testCreareCarte" />
-      <item itemvalue="JUnit.BigBangTest.testAdaugaCarte" />
       <item itemvalue="JUnit.BigBangTest" />
-      <item itemvalue="JUnit.BigBangTest.testOrdonare" />
+      <item itemvalue="JUnit.BibliotecaCtrlTest" />
+      <item itemvalue="JUnit.CartiRepoTest" />
+      <item itemvalue="JUnit.TestCartiRepo" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.BigBangTest" />
+        <item itemvalue="JUnit.TestCartiRepo" />
+        <item itemvalue="JUnit.CartiRepoTest" />
+        <item itemvalue="JUnit.BibliotecaCtrlTest" />
         <item itemvalue="Application.Start" />
-        <item itemvalue="JUnit.BigBangTest.testOrdonare" />
-        <item itemvalue="JUnit.BigBangTest.testCreareCarte" />
-        <item itemvalue="JUnit.BigBangTest.testAdaugaCarte" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +467,7 @@
       <workItem from="1554660753930" duration="629000" />
       <workItem from="1554721501952" duration="976000" />
       <workItem from="1555313844762" duration="124000" />
-      <workItem from="1555829568068" duration="6556000" />
+      <workItem from="1555829568068" duration="7724000" />
     </task>
     <task id="LOCAL-00001" summary="tests commit">
       <created>1553009428543</created>
@@ -503,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554657911037</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="big bang commit">
+      <created>1555866462795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555866462795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -539,7 +540,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39635000" />
+    <option name="totallyTimeSpent" value="40803000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -552,7 +553,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -625,7 +625,8 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="tests commit" />
     <MESSAGE value="tests2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="tests2 commit" />
+    <MESSAGE value="big bang commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="big bang commit" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -638,13 +639,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/AppTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/cartiBD.dat" />
     <entry file="file://$PROJECT_DIR$/fisier.txt" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/vtir2218MV.control">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -794,7 +788,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/control/BibliotecaCtrlTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
-          <caret line="38" column="39" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="38" selection-end-column="39" />
+          <caret line="38" column="39" selection-start-line="26" selection-start-column="8" selection-end-line="38" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -811,7 +805,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/control/BibliotecaCtrl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -821,7 +815,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/vtir2218MV/model/Carte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="479">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -831,7 +825,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/TestCartiRepo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -841,14 +835,14 @@
     <entry file="file://$PROJECT_DIR$/cartiBD.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/vtir2218MV/repository/CartiRepoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="19" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="19" />
+          <caret line="19" selection-start-line="13" selection-start-column="2" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -862,6 +856,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
