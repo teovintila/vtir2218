@@ -25,7 +25,7 @@ public class TestCartiRepo {
         int sizeAfter=cartiRepository.getCarti().size();
 
         assertEquals(sizeBefore,sizeAfter);
-        assertEquals(cartiOrdonate.size(),3);
+        assertEquals(cartiOrdonate.size(),4);
 
         int ok=1;
         for(int i=0;i<cartiOrdonate.size()-1;i++){
