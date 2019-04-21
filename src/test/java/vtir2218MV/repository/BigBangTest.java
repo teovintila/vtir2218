@@ -126,7 +126,7 @@ public class BigBangTest {
         assertEquals(size+1,cartiRepository.getCarti().size());
 
         List<Carte> cartiOrdonate = cartiRepository.getCartiOrdonateDinAnul("2000");
-        assertEquals(5,cartiOrdonate.size());
+        assertEquals(4,cartiOrdonate.size());
 
         int ok=1;
         for(int i=0;i<cartiOrdonate.size()-1;i++){
